@@ -1,0 +1,7 @@
+{
+    
+    "env":{
+        "MONGO_ATLUS_PW" : "node-shop",
+        "JWT_KEY":"secret"
+    }
+}
